@@ -35,5 +35,3 @@ vivado/ - Vivado projects (optional)
 
 ## Status
 
-🚀 Repository initialized.
-First project (Half Adder) coming soon.
